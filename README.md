@@ -4,7 +4,7 @@ My name is Katherine Gonzalez. I am a 28 year old Veteran from western Washingto
 
 ##Growth Mindset
 
->“Someday, somewhere — anywhere, unfailingly, you'll find yourself, and that, and only that, can be the happiest or bitterest hour of your life.” - Pablo Neruda>
+>“Someday, somewhere — anywhere, unfailingly, you'll find yourself, and that, and only that, can be the happiest or bitterest hour of your life.” - Pablo Neruda
 
 To me growth mindset is about lifelong learning. We as humans are **constantly** learning, growing and changing (look at madonna). Through new experiences and skills we shape and reshape who we are over the years. Looking back, I'm not the same person I was ten years ago, and I won't be the same ten years from now and that's agood thing. 
 To keep myself on the right track I'll try to use this mindset by telling myself the following:
