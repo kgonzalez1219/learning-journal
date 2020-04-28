@@ -2,7 +2,7 @@
 
 My name is Katherine Gonzalez. I am a 28 year old Veteran from western Washington. I'm married with three children and am slowly learning about myself and who I am outside of the military after ten years. 
 
-##Growth Mindset
+## Growth Mindset
 
 >“Someday, somewhere — anywhere, unfailingly, you'll find yourself, and that, and only that, can be the happiest or bitterest hour of your life.” - Pablo Neruda
 
@@ -11,7 +11,7 @@ To keep myself on the right track I'll try to use this mindset by telling myself
 
 1. Don't give up, I'm capable of doing difficult things.
 1. No pain,no gain - You'll never improve if you don't challenge yourself.
-1.Grow in all aspects - Challenge yourself in everything you do.
+1. Grow in all aspects - Challenge yourself in everything you do.
 
 
 ## Markdown
