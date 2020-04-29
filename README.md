@@ -18,3 +18,7 @@ To keep myself on the right track I'll try to use this mindset by telling myself
 
 Markdown gives the user greater control over their text while streamlining the process of coding using github and improves functionality overall. It uses text structures to generate HTML.
 
+## Tools
+
+https://github.com/kgonzalez1219/learning-journal/blob/master/tools-terminal.md
+
