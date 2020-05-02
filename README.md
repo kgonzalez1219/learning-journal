@@ -8,4 +8,5 @@ My name is Katherine Gonzalez. I am a 28 year old Veteran from western Washingto
 1. [Tools](tools-terminal.md)
 1. [Git](git.md)
 1. [HTML](html.md)
+1. [CSS](css.md)
 
