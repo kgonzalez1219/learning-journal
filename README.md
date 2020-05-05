@@ -9,6 +9,7 @@ My name is Katherine Gonzalez. I am a 28 year old Veteran from western Washingto
 1. [Git](git.md)
 1. [HTML](html.md)
 1. [CSS](css.md)
-1. [Javascript](javascript.md)
+1. [Javascript&jQuery](javascript.md)
 1. [How Computers Work](howcomputerswork.md)
+
 
